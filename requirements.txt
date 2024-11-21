@@ -1,0 +1,4 @@
+FastKmedoids==0.0.30
+polars
+pandas
+numpy
